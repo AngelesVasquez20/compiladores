@@ -1,5 +1,3 @@
-// Get-Content t2.iloc | .\sched.exe 1 -r
-// sched.exe 1 < t1.iloc
 #include <algorithm>
 #include <cstdlib>
 #include <iostream>
